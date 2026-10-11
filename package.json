@@ -5,7 +5,6 @@
   "version": "1.0.0",
   "publisher": "keane3029-lab",
   "license": "MIT",
-  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/keane3029-lab/story-format-vscode-extension.git"
