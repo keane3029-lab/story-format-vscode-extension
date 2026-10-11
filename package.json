@@ -1,22 +1,18 @@
 {
   "name": "story-format-vscode-extension",
   "displayName": ".STORY Format Support",
-  "description": "Language support and syntax highlighting for .STORY files",
+  "description": "Syntax highlighting, snippets and language support for .story files",
   "version": "1.0.0",
   "publisher": "keane3029-lab",
+  "license": "MIT",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keane3029-lab/.story-format-vscode-extension"
+    "url": "https://github.com/keane3029-lab/story-format-vscode-extension.git"
   },
-  "engines": {
-    "vscode": "^1.80.0"
-  }
-}
-
-  },
-  "homepage": "https://github.com/keane3029-lab/.story-format-vscode-extension",
+  "homepage": "https://github.com/keane3029-lab/story-format-vscode-extension#readme",
   "bugs": {
-    "url": "https://github.com/keane3029-lab/.story-format-vscode-extension/issues"
+    "url": "https://github.com/keane3029-lab/story-format-vscode-extension/issues"
   },
   "engines": {
     "vscode": "^1.85.0"
